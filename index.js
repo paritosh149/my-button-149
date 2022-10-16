@@ -1,3 +1,3 @@
 export function message(name){
-    return name;
+    return name+" from github";
 }
